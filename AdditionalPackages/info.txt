@@ -1,0 +1,1 @@
+If you're using IntelliJ, just add the lib folder of the javafx-sdk-11.0.2 file and java-json as libraries under the project structure settings. The project would then be ready to be compiled.
