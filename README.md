@@ -1,5 +1,7 @@
 # project
-
 Author : Mi Jia Looi, Denzel Long
 
-FIT3077 Assignment project
+This project ulitlise JavaFX, MVC design pattern and FHIR server and API.
+
+Run Main.java in ./Engine
+
